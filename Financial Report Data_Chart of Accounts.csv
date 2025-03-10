@@ -1,0 +1,39 @@
+﻿Account,Account key (Chart of Accounts),Class,Report,Sub Account,Sub Class,SubClass2
+Travel,290,Operating account,Profit and Loss,Travel,Operating Expenses,Administration
+Utilities,340,Operating account,Profit and Loss,Utilities,Operating Expenses,Administration
+"Property, Plant, & Equipment",90,Assets,Balance Sheet,Office Furniture & Equipment,Assets,Non-Current Assets
+Receivables,30,Assets,Balance Sheet,Trade Receivables,Assets,Current Assets
+Office Supplies,310,Operating account,Profit and Loss,Office Supplies,Operating Expenses,Administration
+Trade Payables,110,Liabilities and Owners Equity,Balance Sheet,Trade Payables,Liabilities,Current Liabilities
+Sales Return,220,Trading account,Profit and Loss,Sales Return,Sales,Sales
+Cost of Sales,230,Trading account,Profit and Loss,Cost of Sales,Cost of Sales,Cost of Sales
+Interest Income,410,Non-operating,Profit and Loss,Interest Income,Interest Income,Interest Income
+Long Term Obligations,160,Liabilities and Owners Equity,Balance Sheet,Long Term Obligations,Liabilities,Long Term Liabilities
+Other Payables,122,Liabilities and Owners Equity,Balance Sheet,Tax payable,Liabilities,Current Liabilities
+Other Payables,120,Liabilities and Owners Equity,Balance Sheet,Accrued Expenses,Liabilities,Current Liabilities
+Professional Services,320,Operating account,Profit and Loss,Professional Services,Operating Expenses,Administration
+Cash & Cash Equivalents,10,Assets,Balance Sheet,Cash at Bank,Assets,Current Assets
+Cash & Cash Equivalents,20,Assets,Balance Sheet,Cash in hand,Assets,Current Assets
+Inventory,60,Assets,Balance Sheet,Inventory,Assets,Current Assets
+Sales,210,Trading account,Profit and Loss,Sales,Sales,Sales
+Advertisements,280,Operating account,Profit and Loss,Advertisements,Operating Expenses,Marketing
+Telephone,330,Operating account,Profit and Loss,Telephone,Operating Expenses,Administration
+Equipment,380,Operating account,Profit and Loss,Equipment,Depreciation & Amortization,Depreciation
+Investments,75,Assets,Balance Sheet,Securities,Assets,Current Assets
+Staff Costs,240,Operating account,Profit and Loss,Salaries,Operating Expenses,Sales & Distribution
+Entertainment,300,Operating account,Profit and Loss,Entertainment,Operating Expenses,Administration
+Amortization of Intangible Assets,400,Operating account,Profit and Loss,Amortization of Intangible Assets,Depreciation & Amortization,Amortization
+Commissions,260,Operating account,Profit and Loss,Commissions,Operating Expenses,Marketing
+Retained Earnings,200,Liabilities and Owners Equity,Balance Sheet,Retained Earnings,Owners Equity,Retained Earnings
+Exchange Loss/Gain,430,Non-operating,Profit and Loss,Exchange Loss/Gain,Exchange Loss/Gain,Exchange Loss/Gain
+Dividend Income,431,Non-operating,Profit and Loss,Dividend Income,Dividend Income,Dividend Income
+Other Expenses,350,Operating account,Profit and Loss,Other Expenses,Operating Expenses,Administration
+Dividends paid,201,Liabilities and Owners Equity,Balance Sheet,Dividends paid,Owners Equity,Retained Earnings
+Other Payables,121,Liabilities and Owners Equity,Balance Sheet,Interest Payable,Liabilities,Current Liabilities
+Other Payables,135,Liabilities and Owners Equity,Balance Sheet,Dividends payable,Liabilities,Current Liabilities
+Share Capital,180,Liabilities and Owners Equity,Balance Sheet,Share Capital,Owners Equity,Share Capital
+Interest Expense,440,Interest & Tax,Profit and Loss,Interest Expense,Interest Expense,Interest Expense
+Adjusting,1010,Adjusting,Adjusting,Adjusting,Adjusting,Adjusting
+Taxation,450,Interest & Tax,Profit and Loss,Taxation,Taxation,Taxation
+Gain/Loss on Sales of Asset,420,Non-operating,Profit and Loss,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset
+Intangible Assets,100,Assets,Balance Sheet,Patents and trademarks,Assets,Non-Current Assets
